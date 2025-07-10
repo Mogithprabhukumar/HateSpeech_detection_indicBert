@@ -41,9 +41,6 @@ Challenges: Handling noisy text, dialect variations, and code-mixed Tamil-Englis
 🔧 *Installation*
 To set up the Hate Speech Hunter project locally:
 
-# Clone the repository
-git clone https://github.com/SSHarshitha/Hatespeech_detection_indicBert.git
-cd Hatespeech_detection_indicBert
 
 # Install dependencies
 pip install -r requirements.txt
